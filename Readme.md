@@ -5,5 +5,5 @@
 Inline-style: 
 ![Circuit](https://www.google.com/search?q=arduino+radar+system+project+processing&client=ubuntu&hs=Qg&channel=fs&source=lnms&tbm=isch&sa=X&ved=0ahUKEwikgrWMlZ_iAhUI4HMBHRV3AYsQ_AUIDygC&biw=1299&bih=639#imgrc=cHHvKctd5JCxlM:)
 
-#### Project developed by Raghav Maheshwari for the course Microprocessors.
+#### Project developed by Raghav Maheshwari for the course on Microprocessors.
 
